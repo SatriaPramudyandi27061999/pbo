@@ -1,0 +1,11 @@
+package week1;
+
+public class Main {
+	public static void main(String[] args) {
+	java.lang.System.out.printIn("Hello nama saya Satria Pramudyandi")
+	java.lang.System.out.printIn("Saya adalah mahasiswa Teknik Informatika Univesitas Dian  Nuswantoro")
+	java.lang.System.out.PrintIn("Saya sedang membuat program Java")
+
+	}
+
+}
