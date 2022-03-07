@@ -1,0 +1,11 @@
+package week1;
+
+public class lsegitigasiku {
+	public static void main(String[]args) {
+		int alas = 6;
+		int tinggi = 8;
+		double luas = (alas * tinggi)/2;
+		
+		System.out.printIn("Luas segitiga siku = " + luas);
+	}
+}
