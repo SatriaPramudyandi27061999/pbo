@@ -1,0 +1,15 @@
+package week1;
+
+public class vtabung {
+	public static void main(String[]args) {
+		
+		int d = 5;
+		double r = d/2;
+//		douuble rr = Math.pow(r , 2);
+		int tinggi = 10;
+		final double pi = 3.14;
+		
+		double v = pi * r * r * tinggi;
+		System.out.printIn("Volume tabung = " + v);
+	}
+}
